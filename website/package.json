@@ -1,0 +1,21 @@
+{
+  "name": "jsprofesional",
+  "version": "1.0.0",
+  "description": "Curso de JS Profesional en Platzi",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "Freddy Junior Campos <freddycampos1994@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "typescript": "^4.3.5"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ],
+  "dependencies": {
+    "@freddyjjcm/videomediaplayer": "^1.0.0"
+  }
+}
